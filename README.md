@@ -9,3 +9,4 @@ handy commands
 
 #### Push only a subdir to a remote master
     git subtree push --prefix=subdir heroku master
+    see: [1](https://sndrs.ca/2013/11/15/deploy-a-subdirectory-to-heroku-as-an-app/)
